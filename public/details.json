@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Echoes of Eternity",
+    "description": "An epic journey through forgotten realms where magic and mystery intertwine.",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "name": "Solaris Drift",
+    "description": "A thrilling sci-fi saga exploring lost planets and the courage of a lone crew.",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Whispers in the Fog",
+    "description": "A haunting mystery unfolds as a detective chases clues in a misty coastal town.",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Harvest of Stars",
+    "description": "An inspiring tale of survival and discovery among the stars.",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "The Last Ember",
+    "description": "A fantasy adventure where ancient forces clash over the fate of the world.",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Velvet Shadows",
+    "description": "Dark secrets unravel in a city where nothing is as it seems.",
+    "rating": 4.1
+  },
+  {
+    "id": 7,
+    "name": "Beyond the Iron Gate",
+    "description": "A gripping dystopian story about rebellion and hope in a broken world.",
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "Crimson Horizons",
+    "description": "An unforgettable romance blossoming amidst war and chaos.",
+    "rating": 4.3
+  }
+]
