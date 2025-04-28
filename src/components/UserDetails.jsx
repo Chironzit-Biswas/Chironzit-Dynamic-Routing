@@ -5,7 +5,6 @@ export function UserDetails() {
     const user = useLoaderData();
     const {name,description,rating}=user
   const navigation = useNavigate()
-
     return (
         <div className={'h-[100vh] w-[600px] mx-auto'}>
             <div
